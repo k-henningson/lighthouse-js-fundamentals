@@ -36,3 +36,6 @@ if (temperature1 < -40 || temperature1 > 40) {
 if (!raining) {
   console.log("Leave your umbrella at home!");
 }
+
+
+
